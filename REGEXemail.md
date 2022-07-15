@@ -44,10 +44,8 @@ bracket expressions are defined by open and closed square brackets. we use 3 bra
 ## references
 https://regexr.com/
 
-
 https://user-images.githubusercontent.com/100823810/179149053-4702a522-9b83-4569-afca-fb2a29b7fbc5.mp4
 
-
-
-
 ## Author
+hello I'm Michael Peterson. Currently an electrician trying to make the switch into the tech industry. hopefully this tutorial has been helpfull in advancing you REGEX knowledge!  
+Github: https://github.com/mpeterson56
